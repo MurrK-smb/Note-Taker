@@ -1,6 +1,6 @@
 # Note Taker
 
-#### Video Demo: <URL HERE>
+#### Video Demo: [My Video](https://youtu.be/wfehwoKMKII)
 
 #### Description
 
